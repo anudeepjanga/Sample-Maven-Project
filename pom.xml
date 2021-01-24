@@ -7,8 +7,13 @@
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+<<<<<<< HEAD
   <name>Anudeep Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
+=======
+  <name>Maven Project</name>
+  <description>Sample Maven  anudeep  project with a working, deployable site.</description>
+>>>>>>> 5ea29c6f58a09897352f473e735aec730ba660ea
   <url>http://www.example.com</url>
 
   <properties>
