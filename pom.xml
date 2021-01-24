@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 <<<<<<< HEAD
-  <name>Annudeep Maven Project</name>
+  <name>Anudeep Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
 =======
   <name>Maven Project</name>
